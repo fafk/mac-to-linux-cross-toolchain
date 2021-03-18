@@ -2,7 +2,7 @@
 
 Target platform: `x86_64-unknown-linux-gnu`.
 
-Built with toolchain-NG. Intended for Mac users who want to build on Mac and run on Linux.
+Built with crostool-NG. Intended for Mac users who want to build on Mac and run on Linux.
 
     Languages       : C,C++
     OS              : linux-4.20.8
